@@ -7,7 +7,7 @@ Click below to check out the live demo.
 
 [![N|Solid](preview.png)](https://www.bootstrapdash.com/demo/corona-angular-free/preview/demo_1/dashboard)
 
-## What is included?
+## What is include?
 
 - Angular 11+ & Typescript
   
